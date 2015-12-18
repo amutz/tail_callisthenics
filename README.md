@@ -18,3 +18,10 @@ These excersizes:
  - Run the test files that do end in tr using the file
    run_with_tail_call_optimization.rb.
 
+The best order to attempt these:
+ 1. ruby test_fibonacci.rb
+ 2. ruby run_with_tail_call_optimization.rb test_fibonacci_tr.rb
+ 3. ruby test_todo.rb
+ 4. ruby run_with_tail_call_optimization.rb test_todo_tr.rb
+
+
